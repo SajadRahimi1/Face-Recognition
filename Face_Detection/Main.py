@@ -26,7 +26,7 @@ for neigh in range(1, faceNeighborsMax, neighborStep):
 for (x, y, w, h) in faces:
     cv2.rectangle(frameClone, (x, y), (x + w, y + h), (255, 0, 0), 2)
 
-cv2.putText(frameClone, "=>PythonScriptIran<= # Neighbors = {}".format(neigh), (10, 50), 
+cv2.putText(frameClone, "=>PyScriptIran<= # Neighbors = {}".format(neigh), (10, 50), 
 cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 255), 4)
 cv2.imshow('Face Detection Demo', frameClone)
 cv2.waitKey(0)
