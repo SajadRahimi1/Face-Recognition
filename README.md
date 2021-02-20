@@ -1,5 +1,5 @@
 # Image-Processing
-Face Cognization With Opencv in Python3 
+Face Recognizer With Opencv in Python3 
 
 For install Requirement:
 
