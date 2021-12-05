@@ -17,4 +17,4 @@ python Main.py -i [Path of Your Image]
 Linux:
 python3 Main.py -i [Path of Your Image]
 
-Thanks For Downloading♥♥♥♥
+Thanks For Downloading
